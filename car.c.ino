@@ -2,6 +2,7 @@
 #include <AFMotor.h>
 #include <SoftwareSerial.h>
 
+
 SoftwareSerial BT(0, 1); //TX, RX respetively
 String readvoice;
 
